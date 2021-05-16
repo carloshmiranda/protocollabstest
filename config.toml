@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 relativeURLS=true
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The start of my adventure in Protocol Labs"
 theme = "ananke"
