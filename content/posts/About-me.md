@@ -4,7 +4,6 @@ date: 2021-05-16T10:03:41+01:00
 draft: false
 ---
 
-![Protocollogo](/static/og-default.jpeg)
 From a young age, I was always very drawn into technology and understanding how everything worked but also use it to improve my life and anyone surrounding me and I think this was what drove me in going into an IT career where my work could have an impact, meaning and help improve others life in some way.
 
 I'm very young in blockchain technology and I do feel so "green" but more than the knowledge about it, I truly believe that is a way of returning the control, power and improve the lives of everyone and not only benefit major corporations or companies that want to keep things centralized and would be so meaningful to be involved and contribute to this positive change with the work and experience that I already acquired throughout my life.
